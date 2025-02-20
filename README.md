@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/abhishekkesharwani914/Quiz-App.git
 cd quiz-app
 ```
 2. Install Dependencies
@@ -53,6 +53,11 @@ npm run dev  # or yarn dev
 - The app is deployed on vercel.
 
 ## 🔗 Links
+
+- [Project Github link](https://github.com/abhishekkesharwani914/Quiz-App)
+
+- [Project live](https://quiz-app-git-main-abhishekkesharwani914s-projects.vercel.app/)
+
 - [GitHub](https://github.com/abhishekkesharwani914)
 
 - [linkedin](https://www.linkedin.com/in/abhishek-kesharwani-5019b4215/)

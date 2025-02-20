@@ -45,6 +45,10 @@ npm run dev  # or yarn dev
 ```
 4. Open in Browser
 
+## Image
+
+![Demo](./src/assets/image.png)
+
 - The app should be running on http://localhost:3000 (or the port specified in the terminal).
 
 ## Deployment
